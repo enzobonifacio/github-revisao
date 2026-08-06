@@ -1,4 +1,4 @@
-[
+let produtos = [
     {
         nome: 'iphone 17',
         preco: 8000,
