@@ -16,3 +16,6 @@ let produtos = [
         preco: 30,
     },
 ];
+produtos.shift()
+console.table(produtos)
+
